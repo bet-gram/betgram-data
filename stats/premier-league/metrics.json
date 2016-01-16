@@ -1,0 +1,124 @@
+{
+  "results": [
+    {
+      "follower_count": 6367540.0, 
+      "retweet_count": 93156.0, 
+      "screen_name": "manchester_united", 
+      "weighted_rt_index": 292.0
+    }, 
+    {
+      "follower_count": 6530545.0, 
+      "retweet_count": 27539.0, 
+      "screen_name": "arsenal", 
+      "weighted_rt_index": 84.0
+    }, 
+    {
+      "follower_count": 4980093.0, 
+      "retweet_count": 17817.0, 
+      "screen_name": "liverpool", 
+      "weighted_rt_index": 71.0
+    }, 
+    {
+      "follower_count": 6231244.0, 
+      "retweet_count": 11696.0, 
+      "screen_name": "chelsea", 
+      "weighted_rt_index": 37.0
+    }, 
+    {
+      "follower_count": 332012.0, 
+      "retweet_count": 10952.0, 
+      "screen_name": "albion", 
+      "weighted_rt_index": 659.0
+    }, 
+    {
+      "follower_count": 1261130.0, 
+      "retweet_count": 7347.0, 
+      "screen_name": "tottenham", 
+      "weighted_rt_index": 116.0
+    }, 
+    {
+      "follower_count": 234970.0, 
+      "retweet_count": 6880.0, 
+      "screen_name": "leicester", 
+      "weighted_rt_index": 585.0
+    }, 
+    {
+      "follower_count": 658264.0, 
+      "retweet_count": 3962.0, 
+      "screen_name": "newcastle", 
+      "weighted_rt_index": 120.0
+    }, 
+    {
+      "follower_count": 380746.0, 
+      "retweet_count": 3227.0, 
+      "screen_name": "stoke", 
+      "weighted_rt_index": 169.0
+    }, 
+    {
+      "follower_count": 2793580.0, 
+      "retweet_count": 3177.0, 
+      "screen_name": "manchester_city", 
+      "weighted_rt_index": 22.0
+    }, 
+    {
+      "follower_count": 539673.0, 
+      "retweet_count": 1987.0, 
+      "screen_name": "aston_villa", 
+      "weighted_rt_index": 73.0
+    }, 
+    {
+      "follower_count": 525010.0, 
+      "retweet_count": 1323.0, 
+      "screen_name": "westham", 
+      "weighted_rt_index": 50.0
+    }, 
+    {
+      "follower_count": 266637.0, 
+      "retweet_count": 1232.0, 
+      "screen_name": "crystal", 
+      "weighted_rt_index": 92.0
+    }, 
+    {
+      "follower_count": 290296.0, 
+      "retweet_count": 1208.0, 
+      "screen_name": "norwich", 
+      "weighted_rt_index": 83.0
+    }, 
+    {
+      "follower_count": 663677.0, 
+      "retweet_count": 1024.0, 
+      "screen_name": "everton", 
+      "weighted_rt_index": 30.0
+    }, 
+    {
+      "follower_count": 447938.0, 
+      "retweet_count": 945.0, 
+      "screen_name": "southampton", 
+      "weighted_rt_index": 42.0
+    }, 
+    {
+      "follower_count": 109182.0, 
+      "retweet_count": 684.0, 
+      "screen_name": "watford", 
+      "weighted_rt_index": 125.0
+    }, 
+    {
+      "follower_count": 403254.0, 
+      "retweet_count": 366.0, 
+      "screen_name": "sunderland", 
+      "weighted_rt_index": 18.0
+    }, 
+    {
+      "follower_count": 101815.0, 
+      "retweet_count": 341.0, 
+      "screen_name": "bournemouth", 
+      "weighted_rt_index": 66.0
+    }, 
+    {
+      "follower_count": 426529.0, 
+      "retweet_count": 232.0, 
+      "screen_name": "swansea", 
+      "weighted_rt_index": 10.0
+    }
+  ]
+}
