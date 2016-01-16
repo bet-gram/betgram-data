@@ -27,11 +27,11 @@ def get_done():
 
 	whole_space = [a + '_' + b + '.png' for a, b in matches]
 
-	os.chdir(CURRENT_DIR + os.sep + 'combined' + os.sep + 'loser')
+	os.chdir(CURRENT_DIR + os.sep + 'combined' + os.sep + 'winner')
 	loser_files = [f for f in os.listdir('.') if f[0] != '.']
 	os.chdir(CURRENT_DIR)
 
-	os.chdir(CURRENT_DIR + os.sep + 'combined' + os.sep + 'tie')
+	os.chdir(CURRENT_DIR + os.sep + 'combined' + os.sep + 'draw')
 	tie_files = [f for f in os.listdir('.') if f[0] != '.']
 	os.chdir(CURRENT_DIR)
 
@@ -44,14 +44,14 @@ def get_done():
 	for itm in whole_space:
 		if itm not in loser_files:
 			if itm in difference:
-				difference[itm][0] = 'loser'
+				difference[itm][0] = 'winner'
 			else:
-				difference[itm] = ['loser', '']
+				difference[itm] = ['winner', '']
 		if itm not in tie_files:
 			if itm in difference:
-				difference[itm][1] = 'tie'
+				difference[itm][1] = 'draw'
 			else:
-				difference[itm] = ['', 'tie']
+				difference[itm] = ['', 'draw']
 
 	return difference
 
